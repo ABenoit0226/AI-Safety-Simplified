@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
+title: "Other Resources"
 layout: categories
-permalink: /categories/
-author_profile: true
+permalink: /resources/
+author_profile: false
 ---
